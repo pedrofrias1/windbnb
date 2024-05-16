@@ -1,0 +1,22 @@
+/* nav */
+.openNav{
+    width: 200vh;
+}
+.bnt-country{
+    padding: 5px 35px;
+}
+.forms{
+    padding: 2vh 5px;
+}
+.search{
+    border-radius: 0 18px 18px 0;
+    background: transparent;
+    padding: 5px 4vh;
+}
+.country{
+    border-radius: 18px 0 0 18px;
+}
+
+
+
+
